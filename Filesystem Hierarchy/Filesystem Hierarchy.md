@@ -1,4 +1,4 @@
-![](https://github.com/fwanany/Linux/blob/master/Filesystem%20Hierarchy/Filesystem%20Hierarchy.png)
+![](./Filesystem Hierarchy.png)
 
 `/` (Primary hierarchy root and root directory of the entire file system hierarchy)
 
